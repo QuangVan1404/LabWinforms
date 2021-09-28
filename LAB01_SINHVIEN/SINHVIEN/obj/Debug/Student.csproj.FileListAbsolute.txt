@@ -1,0 +1,6 @@
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe.config
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.pdb
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.exe
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.pdb

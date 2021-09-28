@@ -1,0 +1,7 @@
+C:\Users\DTri\source\repos\QLyDat\bin\Debug\QLyDat.exe.config
+C:\Users\DTri\source\repos\QLyDat\bin\Debug\QLyDat.exe
+C:\Users\DTri\source\repos\QLyDat\bin\Debug\QLyDat.pdb
+C:\Users\DTri\source\repos\QLyDat\obj\Debug\QLyDat.csproj.CoreCompileInputs.cache
+C:\Users\DTri\source\repos\QLyDat\obj\Debug\QLyDat.exe
+C:\Users\DTri\source\repos\QLyDat\obj\Debug\QLyDat.pdb
+C:\Users\DTri\source\repos\QLyDat\obj\Debug\QLyDat.csproj.AssemblyReference.cache

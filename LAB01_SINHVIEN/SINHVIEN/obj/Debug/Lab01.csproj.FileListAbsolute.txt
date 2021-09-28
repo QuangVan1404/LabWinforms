@@ -1,0 +1,7 @@
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe.config
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.pdb
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\obj\Debug\Lab01.csproj.AssemblyReference.cache
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.exe
+E:\Desktop\winform\Thực hành winform(source code)\full source lab  winform\LAB01_SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.pdb

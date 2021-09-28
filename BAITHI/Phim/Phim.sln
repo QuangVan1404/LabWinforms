@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phim", "Phim\Phim.csproj", "{FEBFB27F-9C89-4FBB-9DF6-8C4644D88C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBFB27F-9C89-4FBB-9DF6-8C4644D88C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBFB27F-9C89-4FBB-9DF6-8C4644D88C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBFB27F-9C89-4FBB-9DF6-8C4644D88C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBFB27F-9C89-4FBB-9DF6-8C4644D88C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5DB5CB-6B79-42C3-A6F8-20CBD1B056F2}
+	EndGlobalSection
+EndGlobal

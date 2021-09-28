@@ -1,0 +1,7 @@
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\bin\Debug\Student1.2.exe.config
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\bin\Debug\Student1.2.exe
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\bin\Debug\Student1.2.pdb
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\obj\Debug\Lab01-2.csproj.CoreCompileInputs.cache
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\obj\Debug\Student1.2.exe
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\obj\Debug\Student1.2.pdb
+C:\Users\HKhansh\source\repos\TH\BUOI1\SINHVIEN\Student1.2\obj\Debug\Lab01-2.csproj.AssemblyReference.cache

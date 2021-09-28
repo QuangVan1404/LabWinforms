@@ -1,0 +1,12 @@
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\LAB03-DB.dll.config
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\LAB03-DB.dll
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\LAB03-DB.pdb
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\EntityFramework.dll
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\EntityFramework.xml
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\obj\Debug\LAB03-DB.csproj.AssemblyReference.cache
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\obj\Debug\LAB03-DB.csproj.CoreCompileInputs.cache
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\obj\Debug\LAB03-DB.csproj.CopyComplete
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\obj\Debug\LAB03-DB.dll
+C:\Users\HKhansh\source\repos\LAB03\LAB03-DB\obj\Debug\LAB03-DB.pdb
